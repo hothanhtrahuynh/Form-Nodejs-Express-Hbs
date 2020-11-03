@@ -1,0 +1,27 @@
+body {
+    padding: 50px;
+    font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+    color: #00B7FF;
+}
+
+#notif {
+    color: red;
+    font-size: 20px;
+}
+
+#notif span {
+    font-style: italic;
+}
+
+.title {
+    font-size: 37px;
+    font-weight: bold;
+}
+
+.container {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
